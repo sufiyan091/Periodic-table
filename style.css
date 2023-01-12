@@ -1,1 +1,10 @@
-table :hover{ color: black; }
+td{ 
+    width: 50px;
+    height: 50px;
+    margin-top: 600px;
+ }
+ table{ 
+    margin:  5px;
+    margin-top: 5px;
+  }
+
